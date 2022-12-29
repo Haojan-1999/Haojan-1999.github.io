@@ -103,5 +103,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com/Haojan-1999/Haojan-1999.github.io.git
+  repo: https://github.com/Haojan-1999/Haojan-1999.github.io.git
   branch: branch
