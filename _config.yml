@@ -104,4 +104,4 @@ theme: landscape
 deploy:
   type: git
   repo: https://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@github.com/Haojan-1999/Haojan-1999.github.io.git
-  branch: branch
+  branch: master
